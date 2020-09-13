@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>UsingBatchJobAndIterable</members>
+        <members>UsingBatchJobAndQueryLocator</members>
+        <members>UsingFutureMethod</members>
+        <members>UsingQueuebleJob</members>
+        <members>UsingScheduledJob</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account.Updated_By_Contact__c</members>
+        <members>Account.Updated_By_Task__c</members>
+        <members>Activity.Account_Owner__c</members>
+        <members>Activity.Is_Synced__c</members>
+        <members>Contact.Is_Synced__c</members>
+        <members>Contact.Processed_By_Future__c</members>
+        <members>Contact.Processed_By_Queue__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>49.0</version>
+</Package>

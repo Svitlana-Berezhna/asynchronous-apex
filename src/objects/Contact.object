@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Is_Synced__c</fullName>
+        <defaultValue>true</defaultValue>
+        <description>Is Synced</description>
+        <externalId>false</externalId>
+        <label>Is Synced</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Processed_By_Future__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Processed By Future</description>
+        <externalId>false</externalId>
+        <label>Processed By Future</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Processed_By_Queue__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Processed By Queue</description>
+        <externalId>false</externalId>
+        <label>Processed By Queue</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+</CustomObject>
