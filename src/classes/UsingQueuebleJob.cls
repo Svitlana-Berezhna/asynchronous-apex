@@ -1,5 +1,5 @@
 // Call in Developer Console:
-// QueuebleJob.addJobOnTheQueue();
+// UsingQueuebleJob.addJobOnTheQueue();
 
 public class UsingQueuebleJob implements Queueable {      
     
